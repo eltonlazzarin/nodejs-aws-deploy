@@ -24,6 +24,10 @@
 
 ## 👨🏻‍💻 About the project
 
+<h1 align="center">
+	<img alt="Project API" src="https://github.com/eltonlazzarin/nodejs-aws-deploy/blob/main/screenshots/api.png" />
+</h1>
+
 <p>
 This project consists of a simple API that shows some fictional jobs, but the main purpose was to create it to deploy to AWS for learning purposes with the cloud platform, where an EC2 instance was created and an application was uploaded Node.js which is the API itself within a Docker image and finally expose this API on the internet publicly.</p>
 
