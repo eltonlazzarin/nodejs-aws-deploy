@@ -127,6 +127,14 @@ $ docker-compose up -d
 
 EC2 -> Security Groups -> Select docker-machine -> Inbound -> Edit -> Add Rule -> Type: Custom TCP Rule -> Protocol: TCP -> Port Range: 3000 -> Source: Custom -> 0.0.0.0/0 -> Save
 
+<h1 align="center">
+	<img alt="Console AWS EC2" src="https://github.com/eltonlazzarin/nodejs-aws-deploy/blob/main/screenshots/console_ec2.png" />
+</h1>
+
+<h1 align="center">
+	<img alt="AWS Expose Port" src="https://github.com/eltonlazzarin/nodejs-aws-deploy/blob/main/screenshots/create_access_key.png" />
+</h1>
+
 **Access your API**
 
 **Disconnect terminal to EC2 instance**
