@@ -91,7 +91,7 @@ $ docker-machine create --driver amazonec2 NOME_DA_INSTANCIA
 **Connect the terminal to EC2 instance**
 
 ```bash
-$ eval $(docker-machine env NOME_DA_INSTANCIA)
+$ eval $(docker-machine env INSTANCE_NAME)
 ```
 
 **Create docker image in EC2 instance**
@@ -103,7 +103,7 @@ $ docker-compose up -d
 **Disconnect terminal to EC2 instance**
 
 ```bash
-$ eval $(docker-machine env NOME_DA_INSTANCIA -u)
+$ eval $(docker-machine env INSTANCE_NAME -u)
 ```
 
 ## 🤔 How to contribute backend
