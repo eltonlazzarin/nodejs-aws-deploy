@@ -137,6 +137,12 @@ EC2 -> Security Groups -> Select docker-machine -> Inbound -> Edit -> Add Rule -
 
 **Access your API**
 
+EC2 -> Instances -> Select your instance -> Copy and paste Public DNS (IPv4) on your web browser followed by the port, like http://ec2-3-89-91-138.compute-1.amazonaws.com:3000
+
+<h1 align="center">
+	<img alt="Access API Via Web Browser" src="https://github.com/eltonlazzarin/nodejs-aws-deploy/blob/main/screenshots/access_api.png" />
+</h1>
+
 **Disconnect terminal to EC2 instance**
 
 ```bash
