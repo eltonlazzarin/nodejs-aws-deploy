@@ -97,6 +97,14 @@ $ aws configure
 AWS Access Key ID [***************CTPA]:
 ```
 
+<h1 align="center">
+	<img alt="AWS Access User" src="https://github.com/eltonlazzarin/nodejs-aws-deploy/blob/main/screenshots/console_user_security.png" />
+</h1>
+
+<h1 align="center">
+	<img alt="AWS Create Access Key" src="https://github.com/eltonlazzarin/nodejs-aws-deploy/blob/main/screenshots/create_access_key.png" />
+</h1>
+
 **Create an EC2 instance on AWS**
 
 ```bash
