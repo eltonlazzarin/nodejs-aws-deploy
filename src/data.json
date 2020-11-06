@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "logo": "https://thelogocompany.net/wp-content/uploads/2018/07/hip-chap.png",
+    "role": "Desenvolvedor Backend Junior",
+    "description": "Se você é apaixonado por tecnologia, está em busca de espaço para crescer e se transformar, seu lugar é aqui com a gente! Respiramos transformação digital e sonhamos grande! Acreditamos no potencial de crescimento das pessoas. Por isso, investimos fortemente na formação do nosso time. Assim, nos tornamos preparados para assumir desafios realmente enriquecedores e liderar nosso desenvolvimento.",
+    "skills": "Experiência mínima de 2 ano com NodeJS; Experiência com APIs REST; Conhecimento de TypeScript; Facilidade de trabalhar dentro de times multi-disciplinares com metodologia ágil; Conhecimento em Javascript ES6; Experiência com aplicações web de alta escala; Experiência com sistema operacionais Linux; Conhecimento em soluções de virtualização e containers com Docker, Kubernetes, etc; Prática em ambientes de cloud computing como AWS;  Prática em escrever código limpo e legível para pessoas; Conhecimento de práticas de XP (TDD, pair programming, refactoring, continuous integration, etc);"
+  },
+  {
+    "id": 2,
+    "logo": "https://thelogocompany.net/wp-content/uploads/2018/07/picxlit.jpg",
+    "role": "Engenhario de Frontend Junior",
+    "description": "Vamos trazer para nosso time um Front-end Developer que tenha muita disposição pra nos ajudar a continuar entregando projetos inovadores e que ofereçam a melhor experiência para os usuários. Esta posição vai requerer uma certa experiência em desenvolvimento de interfaces para aplicações Web, para que alcancemos a missão de conciliar lógica, estética e versatilidade nas entregas.",
+    "skills": "Conhecimentos intermediários em React; Conhecimentos intermediários em Redux/Sagas; Conhecimentos avançados em HTML5, CSS3, JS e ES6; Conhecimentos em Git, NPM, yarn; Experiência com Material Design."
+  },
+  {
+    "id": 3,
+    "logo": "https://thelogocompany.net/wp-content/uploads/2018/07/main_gulzadlogo-1.jpg",
+    "role": "Front-end Developer",
+    "description": "Estamos procurando novos integrantes para nosso time! Nosso time cresce de forma ordenada, sendo atualmente responsável pelo Site, Ecommerce, Plataforma de Vendas das Lojas e APP, além de sermos protagonistas no processo de transformação digital da empresa, e com isso sempre estão surgindo novos projetos, que você poderá ajudar a construir. Adotamos boas práticas de desenvolvimento como TDD, Pair Programming, Code Review, DevOps entre outros, nos embasando em Metodologias Ágeis para entregar valor ao negócio a cada Sprint, sempre focando na qualidade.",
+    "skills": "Estamos buscando devs que tenham os seguintes conhecimentos: HTML5, CSS, JavaScript (ES6) - (se souber React é legal), Testes automatizados - Caso você não possua conhecimentos em testes automatizados, haverá oportunidade de demonstrar sua capacidade de aprendizado em nosso teste prático."
+  },
+  {
+    "id": 4,
+    "logo": "https://thelogocompany.net/wp-content/uploads/2018/07/parking-logix.png",
+    "role": "Desenvolvedor Frontend",
+    "description": "Aqui, você terá a oportunidade de trabalhar com um time de apaixonados por desafios, sempre preocupado em atender da melhor forma os nossos clientes e buscando as melhores escolhas técnicas para entregar o resultado. E mais importante, tudo isso em um ambiente descontraído com horário flexível e a possibilidade de trabalhar remoto. Como um engenheiro de software, você vai participar do desenho de uma arquitetura da solução e construí-la no seu dia a dia. Estamos constantemente preocupados em criar software com um bom design e aprender a melhor forma de executar qualquer tarefa. Você vai ter contato direto com performance, otimização e escalabilidade de soluções.",
+    "skills": "Paixão por tecnologia e produto. Conhecer arquitetura de software e clean code. Preocupação com manutenibilidade do sistema, legibilidade e coesão de código. Vontade de aprender, unindo conhecimento técnico e de negócio. Conhecimentos sobre testes automatizados. Proficiência em Javascript. Proficiência com ferramenta de versionamentos de código como Git. React Native/React"
+  },
+  {
+    "id": 5,
+    "logo": "https://thelogocompany.net/wp-content/uploads/2018/07/picxlit.jpg",
+    "role": "Backend Developer",
+    "description": "Usando tecnologia de ponta, dados e um processo de design centrado no nosso cliente para entregar um produto com usabilidade para ser o braço direito do nosso cliente. Temos o desafio diário de construir um produto simples e seguro que resolva as dores dos nossos clientes. Donus empodera, facilita o dia a dia e ajuda o crescimento do pequeno varejo brasileiro.",
+    "skills": "Fluência em Java ou Node.js; Fluência em automação de testes utilizando ferramentas como Jest, Mocha, JUnit, Mockito etc; Conhecimentos sobre SQL e NoSQL; Conhecimento sobre versionamento com Git e Github; Conhecimento sobre continuos integration e continous deploy; Interesse em qualidade de código, entendendo os benefícios de escrever testes tanto unitários quanto integrados."
+  },
+  {
+    "id": 6,
+    "logo": "https://thelogocompany.net/wp-content/uploads/2018/07/main_gulzadlogo-1.jpg",
+    "role": "Junior Fullstack developer",
+    "description": "If you are a bold person and are always willing to share, join our Dev team. Here you will have the opportunity to design, code, test and document programs, scripts or procedures. Implement as interface system users. In addition to controlling the version and changes of the software configuration items, generating compilations and releases for the development, approval and production environments. ",
+    "skills": "Knowledge in Javascript AWS EC2, Redis, Mysql, Nodejs, SPA applications; Knowledge in AWS CodeDeploy, Codepipeline; Express or similar; VueJs (or React); Sequelize (or similar ORM); Bootstrap;"
+  }
+]
