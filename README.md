@@ -82,6 +82,30 @@ http://localhost:3000
 
 ## 💻 Deploy API on AWS
 
+**Create an EC2 instance on AWS**
+
+```bash
+$ docker-machine create --driver amazonec2 NOME_DA_INSTANCIA
+```
+
+**Connect the terminal to EC2 instance**
+
+```bash
+$ eval $(docker-machine env NOME_DA_INSTANCIA)
+```
+
+**Create docker image in EC2 instance**
+
+```bash
+$ docker-compose up -d
+```
+
+**Disconnect terminal to EC2 instance**
+
+```bash
+$ eval $(docker-machine env NOME_DA_INSTANCIA -u)
+```
+
 ## 🤔 How to contribute backend
 
 **Follow the steps below**
