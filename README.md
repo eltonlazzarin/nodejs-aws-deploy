@@ -96,7 +96,7 @@ AWS Access Key ID [***************CTPA]:
 **Create an EC2 instance on AWS**
 
 ```bash
-$ docker-machine create --driver amazonec2 NOME_DA_INSTANCIA
+$ docker-machine create --driver amazonec2 INSTANCE_NAME
 ```
 
 **Connect the terminal to EC2 instance**
@@ -110,6 +110,10 @@ $ eval $(docker-machine env INSTANCE_NAME)
 ```bash
 $ docker-compose up -d
 ```
+
+**Expose port 3000 on AWS**
+
+EC2 -> Security Groups -> Select docker-machine -> Inbound -> Edit -> Add Rule -> Type: Custom TCP Rule -> Protocol: TCP -> Port Range: 3000 -> Source: Custom -> 0.0.0.0/0 -> Save
 
 **Disconnect terminal to EC2 instance**
 
