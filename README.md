@@ -60,44 +60,27 @@ $ cd nodejs-aws-deploy
 $ yarn
 ```
 
-**Creating Docker environment with postgres DB**
+## 💻 Run API Locally
+
+**Creating Docker environment with Node.js**
 
 ```bash
 # Create docker enviroment
 $ docker-compose up
 ```
 
-**Run Knex Migrates**
-
-```bash
-# Create tables
-$ yarn knex:migrate
-```
-
 **Run the API**
 
 ```bash
 # Run the API
-$ yarn dev
+$ yarn start
 ```
 
-**To access the API**
-Go to your browser and acess http://localhost:3333/cashiers
+**Acccess the API**
 
-**To view the API documentation**
-Go to your browser and access http://localhost:3000/doc
+http://localhost:3000
 
-**To run tests**
-
-```bash
-# Drop tables
-$ yarn knex:migrate:rollback
-
-# Create tables
-$ yarn knex:migrate
-
-$ yarn test
-```
+## 💻 Deploy API on AWS
 
 ## 🤔 How to contribute backend
 
