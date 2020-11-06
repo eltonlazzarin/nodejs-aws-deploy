@@ -115,6 +115,8 @@ $ docker-compose up -d
 
 EC2 -> Security Groups -> Select docker-machine -> Inbound -> Edit -> Add Rule -> Type: Custom TCP Rule -> Protocol: TCP -> Port Range: 3000 -> Source: Custom -> 0.0.0.0/0 -> Save
 
+**Access your API**
+
 **Disconnect terminal to EC2 instance**
 
 ```bash
