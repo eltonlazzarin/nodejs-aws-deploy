@@ -44,6 +44,8 @@ Technologies that I used to develop this api
 - [Docker CLI](https://docs.docker.com/engine/reference/commandline/cli)
 - [Docker-Compose CLI](https://docs.docker.com/compose/reference/overview)
 - [Docker-Machine CLI](https://docs.docker.com/machine/install-machine)
+- [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html)
+- [AWS Free Account](https://aws.amazon.com/free/)
 
 **Clone the project and access the folder**
 
@@ -81,6 +83,15 @@ $ yarn start
 http://localhost:3000
 
 ## 💻 Deploy API on AWS
+
+**Generating AWS account permissions**
+
+```bash
+$ aws configure
+
+# AWS Console -> AWS User -> My Security Credentials -> AWS IAM credential and click Create access key button and then copy Access key ID and paste bellow
+AWS Access Key ID [***************CTPA]:
+```
 
 **Create an EC2 instance on AWS**
 
