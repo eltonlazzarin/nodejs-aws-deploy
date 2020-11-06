@@ -132,7 +132,7 @@ EC2 -> Security Groups -> Select docker-machine -> Inbound -> Edit -> Add Rule -
 </h1>
 
 <h1 align="center">
-	<img alt="AWS Expose Port" src="https://github.com/eltonlazzarin/nodejs-aws-deploy/blob/main/screenshots/create_access_key.png" />
+	<img alt="AWS Expose Port" src="https://github.com/eltonlazzarin/nodejs-aws-deploy/blob/main/screenshots/expose_port.png" />
 </h1>
 
 **Access your API**
