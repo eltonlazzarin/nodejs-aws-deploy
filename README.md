@@ -1,4 +1,4 @@
-<h3 align="center">
+<h3 align="center"> 
   Simple Jobs API built in Node.js and deployed on AWS
 </h3>
 
